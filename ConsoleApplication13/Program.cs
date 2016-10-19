@@ -15,7 +15,6 @@ namespace ConsoleApplication13
             Car car2 = new Car(3.7, "Ford");
 
             Car car3 = Car.Create();
-
         }
     }
 }
